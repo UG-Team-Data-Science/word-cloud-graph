@@ -8,5 +8,6 @@ Visualizing `WordColl` word collocations using word clouds in a graph, as used i
 |---|---|
 | fake data example based on [1] | paper reproduction based on [2] |
 
-1. [Example as described in (Lukač, 2024...) (unpublished so far)](https://docs.google.com/spreadsheets/d/1ppSh3v6OHi9SebptOYm-3lc87hnd1yPSG3Gie7J1cZ0)
-2. [Fake data example](https://docs.google.com/spreadsheets/d/1P1t1peE8vtiDua9tv3KJ_kz7rgAcndr7216K-97_yC0)
+
+1. [Fake data example](https://docs.google.com/spreadsheets/d/1P1t1peE8vtiDua9tv3KJ_kz7rgAcndr7216K-97_yC0)
+2. [Example as described in (Lukač, 2024...) (unpublished so far)](https://docs.google.com/spreadsheets/d/1ppSh3v6OHi9SebptOYm-3lc87hnd1yPSG3Gie7J1cZ0)
