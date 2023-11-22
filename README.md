@@ -2,7 +2,7 @@
 
 Visualizing `WordColl` word collocations using word clouds in a graph, as used in (Lukač, 2024...) (unpublished so far).
 
-[![Reproduce](https://colab.research.google.com/assets/colab-badge.svg) Reproduce paper result or create custom version on Google Colab](https://colab.research.google.com/github/prhbrt/Wordgraph.ipynb)
+[![Reproduce](https://colab.research.google.com/assets/colab-badge.svg) Reproduce paper result or create custom version on Google Colab](https://colab.research.google.com/github/prhbrt/word-cloud-graph/blob/main/Wordsgraph.ipynb)
 
 |![fake example based on [1]](example1.png) | ![paper reproduction based on [2]](example2.png) |
 |---|---|
